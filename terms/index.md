@@ -58,7 +58,7 @@ title: 서비스 이용약관 / Terms of Service
 
 ## 제12조 (문의)
 - 개발자: MackerelDev
-- 이메일: **{문의 이메일}**
+- 이메일: 1010wer@naver.com
 
 ---
 
@@ -90,4 +90,4 @@ These Terms govern all apps published by MackerelDev ("Developer") on Google Pla
 8. **Disclaimer.** The apps are provided "as is". We do not guarantee the accuracy, completeness or timeliness of displayed information (game data, market prices, etc.) and are not liable for interruptions caused by third-party services (game Open APIs, Google, Firebase, etc.). Nothing in these Terms limits liability that cannot be limited under applicable law, including for intent or gross negligence.
 9. **Privacy.** See the Privacy Policy linked on each app's store page.
 10. **Governing law.** These Terms are governed by the laws of the Republic of Korea. This does not deprive consumers of protections under the mandatory laws of their country of residence.
-11. **Contact.** MackerelDev — **{contact email}**
+11. **Contact.** MackerelDev — 1010wer@naver.com
