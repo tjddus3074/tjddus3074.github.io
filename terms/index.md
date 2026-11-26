@@ -70,7 +70,7 @@ title: 서비스 이용약관 / Terms of Service
 | HaMa | com.mackereldev.hama | Google | 배너 | 일기 |
 | HaMa_Planner | com.mackereldev.hama_planner | Google | 배너 | 일정·시간표 |
 | MyRoomStudy | com.mackereldev.myroomstudy | Google | 보상형 | 공부 기록, 코인(제6조) |
-| PalLog | com.mackereldev.pallogv2 | — | — | 팬메이드 (Palworld, Pocketpair) |
+| PalLog | com.mackereldev.pallogv2 | — | 배너 | 팬메이드 (Palworld, Pocketpair) |
 
 ---
 
